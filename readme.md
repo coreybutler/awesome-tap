@@ -58,6 +58,7 @@ Things that produce TAP output.
 - [mos](https://github.com/zkochan/mos) - Markdown file generator and tester (`$ mos test --tap`).
 - [zora](https://github.com/lorenzofox3/zora) - TAP-producing test runner that works with ES2015 without Babel.
 - [node:test](https://nodejs.org/api/test.html) - Minimal TAP test runner included with Node.js.
+- [tappedout](https://github.com/coreybutler/tappedout) - Runtime agnostic test runner.
 
 ### Swift
 
