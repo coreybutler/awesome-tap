@@ -43,7 +43,7 @@ TAP is a simple text-based interface between testing modules in a test harness.
 
 ### Go
 
-- [tapfmt](https://github.com/coreybutler/tapfmt) - Standalone cross-platform formatted (spec, JSON).
+- [tapfmt](https://github.com/coreybutler/tapfmt) - Standalone cross-platform formatter.
 
 ## Producers
 
